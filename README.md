@@ -25,7 +25,7 @@ In completing this challenge, I learned how to build html and api routes and mid
 
 ## Installation 
 
-To use, install npm, inquirer and uuid (version 8.2.4) in VScode or a similiar program
+To use, install npm, inquirer (version 8.2.4) and uuid in VScode or similiar programs if users wish to inspect the code. Otherwise, click on the Heorku server link provided below to inspect the website. 
 
 ## Usage
 
@@ -40,3 +40,5 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ## Test
+
+(https://note-taker-411-88fab2ce8dc6.herokuapp.com/)
